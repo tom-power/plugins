@@ -24,6 +24,7 @@ available at this repository.
     -->
     <name>Terminal Agent Window</name>
     <description>JetBrains IDE plugin that provides a terminal tool window for AI agents.</description>
+    <vendor email="tp21@tuta.io" url="https://github.com/tom-power/terminal-agent-window">Tom Power</vendor>
     <depends>com.intellij.modules.platform</depends>
     <depends>org.jetbrains.plugins.terminal</depends>
     <idea-version since-build="251"/>
