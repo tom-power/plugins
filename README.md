@@ -1,5 +1,3 @@
-# plugins.tom-power
-
 ## Plugins
 
 ### Jetbrains
