@@ -22,6 +22,10 @@ available at this repository.
     The <idea-version> element (required) must match the same element
     in the plugin.xml file.
     -->
+    <name>Terminal Agent Window</name>
+    <description>JetBrains IDE plugin that provides a terminal tool window for AI agents.</description>
+    <depends>com.intellij.modules.platform</depends>
+    <depends>org.jetbrains.plugins.terminal</depends>
     <idea-version since-build="251"/>
   </plugin>>
 </plugins>
